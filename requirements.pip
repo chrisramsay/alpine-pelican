@@ -2,3 +2,6 @@ pelican
 pelican-minify
 markdown
 beautifulsoup4
+jupyter
+ipython
+nbconvert
