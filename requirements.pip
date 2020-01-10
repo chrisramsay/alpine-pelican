@@ -3,5 +3,6 @@ pelican-minify
 markdown
 beautifulsoup4
 jupyter
+prompt-toolkit==2.0.0
 ipython
 nbconvert
