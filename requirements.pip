@@ -2,6 +2,7 @@ pelican
 pelican-minify
 markdown
 beautifulsoup4
+prompt-toolkit==2.0.9
 jupyter>=1.0
 ipython>=4.0
 nbconvert
