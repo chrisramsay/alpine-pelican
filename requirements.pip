@@ -2,4 +2,4 @@ pelican
 pelican-minify
 markdown
 beautifulsoup4
-ipython == 5.*
+ipython == 3.*
