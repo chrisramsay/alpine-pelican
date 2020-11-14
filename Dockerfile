@@ -1,7 +1,7 @@
 FROM alpine:latest
 
 COPY requirements.pip /tmp/
-RUN apk add --no-cache python3
+RUN apk add --no-cache python3 py-pip
 RUN pip3 install --upgrade pip && \
     pip3 install -r /tmp/requirements.pip
 
