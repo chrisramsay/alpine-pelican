@@ -1,3 +1,3 @@
 # alpine-pelican
 
-That is it for now, until I add more!
+A simple container for running (Pelican)[https://github.com/getpelican/pelican] 
